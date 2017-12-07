@@ -1,0 +1,26 @@
+body{
+	background: url('../img/bg.jpg');
+	background-attachment: fixed;
+}
+header span{
+	font-size:1.5em;
+}
+
+.contenidos{
+	margin: 0px 0;
+	padding:70px 0;
+}
+.imagenes div img{
+	margin:1em 0;
+}
+.img-article{
+	padding: 0 1em 1em 0 
+}
+.social ul li{
+	margin: 1rem 2rem;
+}
+.top{
+	background:white;
+	position: relative;
+	z-index: 2;
+}
